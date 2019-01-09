@@ -18,4 +18,4 @@ specific search, the ellipses are also a visual of the individual data entries.
 
 Additionally, I added text under the search window to give the exact amount of
 entries in the DPLA every time a new input was entered. Since the graph had a range of
-100 entries, I this component gave an exact size of the data set.
+100 entries, I added this component to give an exact size of the data set.
